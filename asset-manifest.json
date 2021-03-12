@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/trivia/static/css/main.bf98938b.chunk.css",
-    "main.js": "/trivia/static/js/main.064c51d4.chunk.js",
-    "main.js.map": "/trivia/static/js/main.064c51d4.chunk.js.map",
-    "runtime~main.js": "/trivia/static/js/runtime~main.a8a14f72.js",
-    "runtime~main.js.map": "/trivia/static/js/runtime~main.a8a14f72.js.map",
-    "static/js/2.7f7c1934.chunk.js": "/trivia/static/js/2.7f7c1934.chunk.js",
-    "static/js/2.7f7c1934.chunk.js.map": "/trivia/static/js/2.7f7c1934.chunk.js.map",
-    "index.html": "/trivia/index.html",
-    "precache-manifest.7962b29c1fe4038f2f29ec0272cc47e5.js": "/trivia/precache-manifest.7962b29c1fe4038f2f29ec0272cc47e5.js",
-    "service-worker.js": "/trivia/service-worker.js",
-    "static/css/main.bf98938b.chunk.css.map": "/trivia/static/css/main.bf98938b.chunk.css.map",
-    "static/media/logo.svg": "/trivia/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Trivia/static/css/main.bf98938b.chunk.css",
+    "main.js": "/Trivia/static/js/main.a41b8f4a.chunk.js",
+    "main.js.map": "/Trivia/static/js/main.a41b8f4a.chunk.js.map",
+    "runtime~main.js": "/Trivia/static/js/runtime~main.4558ca56.js",
+    "runtime~main.js.map": "/Trivia/static/js/runtime~main.4558ca56.js.map",
+    "static/js/2.7f7c1934.chunk.js": "/Trivia/static/js/2.7f7c1934.chunk.js",
+    "static/js/2.7f7c1934.chunk.js.map": "/Trivia/static/js/2.7f7c1934.chunk.js.map",
+    "index.html": "/Trivia/index.html",
+    "precache-manifest.e9d7dae4263279cf3d4564be050c2b31.js": "/Trivia/precache-manifest.e9d7dae4263279cf3d4564be050c2b31.js",
+    "service-worker.js": "/Trivia/service-worker.js",
+    "static/css/main.bf98938b.chunk.css.map": "/Trivia/static/css/main.bf98938b.chunk.css.map",
+    "static/media/logo.svg": "/Trivia/static/media/logo.5d5d9eef.svg"
   }
 }
