@@ -8,6 +8,7 @@ from sqlalchemy.sql.sqltypes import INTEGER
 from models import setup_db, Question, Category
 
 
+
 QUESTIONS_PER_PAGE = 10
 
 # Setting up pagination for questions

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://127.0.0.1:5000/",
-  "homepage": "http://nenaey.github.io/trivia",
+  "homepage": "http://nenaey.github.io/Trivia",
   "dependencies": {
     "corsproxy": "^1.5.0",
     "jquery": "^3.6.0",
@@ -37,5 +37,5 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-    }
+  }
 }

@@ -4,7 +4,7 @@
 
 ### Installing Dependencies
 
-#### Python 3.7
+#### Python 3.10.0
 
 Follow instructions to install the latest version of python for your platform in the [python docs](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python)
 
@@ -97,4 +97,15 @@ dropdb trivia_test
 createdb trivia_test
 psql trivia_test < trivia.psql
 python test_flaskr.py
+```
+
+
+## Run with a production server
+1. Install waitress
+```
+pip install waitress
+```
+2. Run the server
+```
+waitress-serve --call 'flaskr:create_app'
 ```
